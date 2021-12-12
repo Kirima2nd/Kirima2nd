@@ -8,10 +8,16 @@ I still learning programming language though, like learning C#, Python, Java, an
 Oh, glad to see you here 😄
 
 ## What can i do?
+
+I can write some of programming languages here:
 * ♟️ Pawn (SA-MP/open.mp)
 * 🐍 Python
 * 💻 C#
 * 💻 C++, Java, ad golang (only understand the basics)
+* :computer: Brainfuck
+
+And also, can do tutoring with bahasa, mainly focused on pawn scripting language
+
 
 ## How to reach me
 You can get in touch with me on these social media:
