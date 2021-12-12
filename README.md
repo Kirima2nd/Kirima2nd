@@ -5,13 +5,13 @@ As you can see, i'm creating projects that i made by myself. I know my project k
 
 I still learning programming language though, like learning C#, Python, Java, and Pawn. Maybe in the future i can be a person who can make useful app, but who knows right?
 
-O btw, glad to see you here 😄
+Oh, glad to see you here 😄
 
 ## What can i do?
-* I can do C# basic
-* I can do Python, but not that good. Just understanding basic stuff
-* I can do Pawn, yes this is my main programming language for now
-* I can do basic Java, idk why it seems simillar to Pawn ngl
+* ♟️ Pawn (SA-MP/open.mp)
+* 🐍 Python
+* 💻 C#
+* 💻 C++, Java, ad golang (only understand the basics)
 
 ## How to reach me
 You can get in touch with me on these social media:
