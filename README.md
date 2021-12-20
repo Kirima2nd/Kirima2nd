@@ -22,5 +22,5 @@ And also, can do tutoring with bahasa, mainly focused on pawn scripting language
 ## How to reach me
 You can get in touch with me on these social media:
 
-* discord (inactive): @Kirima (Inactive)#2409
+* discord (inactive): @Kirima#2409
 * discord alt: @Ks#1109
