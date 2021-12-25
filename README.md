@@ -1,4 +1,4 @@
-# Hi, i'm Kirima2nd 👋
+# Hello, i'm back 👋
 ![](img/banner.png)
 
 As you can see, i'm creating projects that i made by myself. I know my project kinda useless but at least it's working. I use github to learn how git works, and all the repos that i posted here it's just me trying to make something that is useful for people in the future.
@@ -22,5 +22,5 @@ And also, can do tutoring with bahasa, mainly focused on pawn scripting language
 ## How to reach me
 You can get in touch with me on these social media:
 
-* discord (inactive): @Kirima#2409
+* discord (inactive): @키리마#2409
 * discord alt: @Ks#1109
