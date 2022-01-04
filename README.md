@@ -1,4 +1,4 @@
-# Hello, i'm back 👋
+# Hello, I'm Kirima 👋
 ![](img/banner.png)
 
 As you can see, i'm creating projects that i made by myself. I know my project kinda useless but at least it's working. I use github to learn how git works, and all the repos that i posted here it's just me trying to make something that is useful for people in the future.
