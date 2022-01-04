@@ -12,8 +12,8 @@ Oh, glad to see you here 😄
 I can write some of programming languages here:
 * ♟️ Pawn (SA-MP/open.mp)
 * 🐍 Python
-* 💻 C#
-* 💻 C++, Java, ad golang (only understand the basics)
+* 💻 C#, C/C++ (Basic)
+* 💻 Java, Golang (Only learn for helping friends/golang for fun)
 * :computer: Brainfuck
 
 And also, can do tutoring with bahasa, mainly focused on pawn scripting language
