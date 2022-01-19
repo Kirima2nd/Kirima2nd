@@ -1,26 +1,17 @@
-# Hello, I'm Kirima 👋
-![](img/banner.png)
+# About Me
+Hello, i'm Kirima from Indonesia 🇮🇩
 
-As you can see, i'm creating projects that i made by myself. I know my project kinda useless but at least it's working. I use github to learn how git works, and all the repos that i posted here it's just me trying to make something that is useful for people in the future.
+Just some NPC guy with bad twist and i love to just doing nothing at all. I do teach people how to make things (mainly Pawn) but only covered using Bahasa, not english since i have difficulties speaking with.
 
-I still learning programming language though, like learning C#, Python, Java, and Pawn. Maybe in the future i can be a person who can make useful app, but who knows right?
+Speaking of difficulties, i'm also love open source software, this is why i tried to make some software that is available for people to use even if it seems to be useless tbh but who knows maybe there is someone will using it 😁
 
-Oh, glad to see you here 😄
+## Account Stats
+[![Kirima GitHub Status](https://github-readme-stats.vercel.app/api?username=Se8870&theme=dracula&show_icons=true&count_private=true)](https://github.com/Se8870/)
 
-## What can i do?
-
-I can write some of programming languages here:
-* ♟️ Pawn (SA-MP/open.mp)
-* 🐍 Python
-* 💻 C#, C/C++ (Basic)
-* 💻 Java, Golang (Only learn for helping friends/golang for fun)
-* :computer: Brainfuck
-
-And also, can do tutoring with bahasa, mainly focused on pawn scripting language
-
+[![Kirima GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Se8870&theme=dracula&layout=compact)](https://github.com/Se8870)
 
 ## How to reach me
 You can get in touch with me on these social media:
 
-* discord (inactive): @키리마#2409
-* discord alt: @Ks#1109
+* discord #1: @Kirima#2409
+* discord #2 (Currently Inactive): @Ks#1109
