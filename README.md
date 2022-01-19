@@ -1,4 +1,4 @@
-# About Me
+# About me
 Hello, i'm Kirima from Indonesia 🇮🇩
 
 Just some NPC guy with bad twist and i love to just doing nothing at all. I do teach people how to make things (mainly Pawn) but only covered using Bahasa, not english since i have difficulties speaking with.
